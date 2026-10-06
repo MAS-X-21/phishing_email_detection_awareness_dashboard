@@ -567,9 +567,13 @@ The application supports analysis of safe synthetic `.txt` and `.eml` email samp
 
 ### 📊 Analysis History & Security Analytics
 
-The dashboard stores previous analyses and presents security statistics, graphs, and analysis history.
+The dashboard stores previous analyses and presents statistics, graphs, and analysis history.
 
-![Security analytics dashboard](screenshot/analyse/Screenshot (53).png)
+![Security analytics dashboard](screenshot/analyse/output1.png)
+
+![Security analytics analysis](screenshot/analyse/output2.png)
+
+![Security analytics history](screenshot/analyse/output3.png)
 
 ---
 
@@ -577,7 +581,9 @@ The dashboard stores previous analyses and presents security statistics, graphs,
 
 The dashboard provides educational information to help users recognize and respond safely to phishing attempts.
 
-![Security awareness dashboard](screenshot/awareness/screenshot (57).png)
+![Security awareness dashboard](screenshot/awareness/output1.png)
+
+![Security awareness education](screenshot/awareness/output2.png)
 
 
 ## 🎓 Learning Outcomes
