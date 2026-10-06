@@ -1,0 +1,6 @@
+From: Security Team <security@gmail.com>
+Subject: URGENT - Verify your account immediately
+
+Your account will be suspended within 24 hours.
+Verify your password and OTP immediately at http://192.0.2.10/verify.
+Failure to act may result in account termination.

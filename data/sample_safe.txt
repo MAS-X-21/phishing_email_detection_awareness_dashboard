@@ -1,0 +1,6 @@
+From: Library Team <library@example.org>
+Subject: Book collection reminder
+
+Hello,
+Your reserved book is ready for collection. Please visit the library during normal opening hours.
+Thank you.
