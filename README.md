@@ -521,11 +521,11 @@ These enhancements should only be implemented in authorized and defensive enviro
 
 The system analyzes legitimate sample emails and provides an explainable risk assessment.
 
-![Safe email input](screenshots/safe-email/email-input.png)
+![Safe email input](screenshot/safe-email/email-input.png)
 
-![Safe email analysis result](screenshots/safe-email/analysis-result1.png)
+![Safe email analysis result](screenshot/safe-email/analysis-result1.png)
 
-![Safe email analysis details](screenshots/safe-email/analysis-result2.ng)
+![Safe email analysis details](screenshot/safe-email/analysis-result2.ng)
 
 ---
 
@@ -533,11 +533,11 @@ The system analyzes legitimate sample emails and provides an explainable risk as
 
 The system identifies multiple phishing indicators and generates an explainable risk score.
 
-![Phishing email input](screenshots/phishing-email/phishing-input.png)
+![Phishing email input](screenshot/phishing-email/phishing-input.png)
 
-![Phishing email analysis result](screenshots/phishing-email/analysis-result1.png)
+![Phishing email analysis result](screenshot/phishing-email/analysis-result1.png)
 
-![Phishing email analysis details](screenshots/phishing-email/analysis-result2.png)
+![Phishing email analysis details](screenshot/phishing-email/analysis-result2.png)
 
 ---
 
@@ -545,11 +545,11 @@ The system identifies multiple phishing indicators and generates an explainable 
 
 The application analyzes suspicious URL characteristics without visiting the URL.
 
-![URL analysis input](screenshots/url-analysis/url-input.png)
+![URL analysis input](screenshot/url-analysis/url-input.png)
 
-![URL analysis result](screenshots/url-analysis/analysis-result1.png)
+![URL analysis result](screenshot/url-analysis/analysis-result1.png)
 
-![URL analysis details](screenshots/url-analysis/analysis-result2.png)
+![URL analysis details](screenshot/url-analysis/analysis-result2.png)
 
 ---
 
@@ -557,11 +557,11 @@ The application analyzes suspicious URL characteristics without visiting the URL
 
 The application supports analysis of safe synthetic `.txt` and `.eml` email samples.
 
-![Uploaded email input](screenshots/file-upload/input.png)
+![Uploaded email input](screenshot/file-upload/input.png)
 
-![Uploaded email analysis result](screenshots/file-upload/analysis-result1.png)
+![Uploaded email analysis result](screenshot/file-upload/analysis-result1.png)
 
-![Uploaded email analysis details](screenshots/file-upload/analysis-result2.png)
+![Uploaded email analysis details](screenshot/file-upload/analysis-result2.png)
 
 ---
 
@@ -569,7 +569,7 @@ The application supports analysis of safe synthetic `.txt` and `.eml` email samp
 
 The dashboard stores previous analyses and presents security statistics, graphs, and analysis history.
 
-![Security analytics dashboard](screenshots/analyse/Screenshot (53).png)
+![Security analytics dashboard](screenshot/analyse/Screenshot (53).png)
 
 ---
 
@@ -577,7 +577,7 @@ The dashboard stores previous analyses and presents security statistics, graphs,
 
 The dashboard provides educational information to help users recognize and respond safely to phishing attempts.
 
-![Security awareness dashboard](screenshots/awareness/screenshot (57).png)
+![Security awareness dashboard](screenshot/awareness/screenshot (57).png)
 
 
 ## 🎓 Learning Outcomes
